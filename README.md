@@ -1,7 +1,7 @@
 Simulation input parameters for paper submission "Boundary layers in quasi-static magnetoconvection with a vertical field and their implications for heat transport"
 https://arxiv.org/abs/2508.08623
 
-The input parameters, including the Chandrasekhar number (Q), the Rayleigh number (Ra), the timestep (dt), the horizontal resolution in 'x' (Nx), horizontal resolution in 'y' (Ny), vertical resolution in 'z' (Nz), are listed for all simulations. 
+The input parameters, including the Chandrasekhar number (Q), Rayleigh number (Ra), the timestep (dt), horizontal resolution in 'x' (Nx), horizontal resolution in 'y' (Ny), vertical resolution in 'z' (Nz), are listed for all simulations. 
 
 In all simulations presented, we use isothermal boundary conditions. For the bulk of this manuscript we use stress-free and electrically insulating boundary conditions. The input parameters for these simulations are listed in "simulation_inputs.csv."
 
